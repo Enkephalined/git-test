@@ -14,6 +14,6 @@ public class App
         System.out.println("git-test 4th commit in hot-fix");
         System.out.println("master test");
         System.out.println("hot-fix test");
-        System.out.println("IDEA push test");
+        System.out.println("IDEA https push test");
     }
 }
