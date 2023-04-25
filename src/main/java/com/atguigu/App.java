@@ -15,5 +15,6 @@ public class App
         System.out.println("master test");
         System.out.println("hot-fix test");
         System.out.println("IDEA https push test");
+        System.out.println("IDEA ssh push test");
     }
 }
