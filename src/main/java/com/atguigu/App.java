@@ -18,5 +18,6 @@ public class App
         System.out.println("IDEA ssh push test");
         System.out.println("IDEA pull test");
         System.out.println("gitee push test");
+        System.out.println("gitee pull test");
     }
 }
